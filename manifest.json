@@ -152,5 +152,33 @@
       "slide-1.jpg"
     ],
     "caption": ""
+  },
+  "DAY-087": {
+    "images": [
+      "gbp-1.jpg"
+    ],
+    "caption": ""
+  },
+  "DAY-088": {
+    "images": [
+      "slide-1.jpg"
+    ],
+    "caption": ""
+  },
+  "DAY-090": {
+    "images": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg"
+    ],
+    "caption": ""
+  },
+  "DAY-091": {
+    "images": [
+      "slide-1.jpg",
+      "gbp-1.jpg"
+    ],
+    "caption": ""
   }
 }
